@@ -39,9 +39,6 @@ Netflix_Dashboard/
 2. Open it in Power BI Desktop.
 3. Explore the insights using available filters and interactive visuals.
 
-## 📸 Dashboard Preview
-![Dashboard Overview](visuals/Netflix_Dashboard.png)
-
 ## 🧑‍💻 Author
 - Abhishek Bhardwaj
 - [GitHub Profile](https://github.com/abhishekbhardwaj-analyst)
