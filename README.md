@@ -42,18 +42,18 @@ Netflix_Dashboard/
 ## 📸 Dashboard Preview
 ![Dashboard Overview](visuals/dashboard_overview.png)
 
-## 📧 Contact
-For questions, collaboration, or feedback:
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile]
+## 🧑‍💻 Author
+- Abhishek Bhardwaj
+- [GitHub Profile](https://github.com/abhishekbhardwaj-analyst)
+- [LinkedIn Profile](https://linkedin.com/in/ds-abhishek)  
 
-## 📜 License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+## 📄 License
+This project is licensed under the MIT License.
+
+## 📬 Contact
+For questions or feedback, feel free to reach out at abhi.bhardwaj96@gmail.com.
 
 ---
 Feel free to explore and contribute! 🚀📊
 
-Author: [Your Name]  
-Repository: [GitHub Repository URL]  
-Date: 2024
 
