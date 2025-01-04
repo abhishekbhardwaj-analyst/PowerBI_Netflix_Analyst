@@ -40,7 +40,7 @@ Netflix_Dashboard/
 3. Explore the insights using available filters and interactive visuals.
 
 ## 📸 Dashboard Preview
-![Dashboard Overview](visuals/dashboard_overview.png)
+![Dashboard Overview](visuals/Netflix_Dashboard.png)
 
 ## 🧑‍💻 Author
 - Abhishek Bhardwaj
